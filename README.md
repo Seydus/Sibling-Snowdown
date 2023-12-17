@@ -22,7 +22,7 @@ Reload - L
 
 ## Screenshots: 
 
-<img src="https://github.com/Seydus/Sibling-Snowdown/assets/36193712/a2f26999-1daa-4a69-b06a-b3863740cf17" alt="Screenshot 2023-12-18 033012" width="505">
+<img src="https://github.com/Seydus/Sibling-Snowdown/assets/36193712/a2f26999-1daa-4a69-b06a-b3863740cf17" alt="Screenshot 2023-12-18 033012" width="400">
 
-<img src="https://github.com/Seydus/Sibling-Snowdown/assets/36193712/5062ffe6-8da5-4da8-9d69-07d689e214db" alt="Screenshot 2023-12-18 033024" width="500">
+<img src="https://github.com/Seydus/Sibling-Snowdown/assets/36193712/5062ffe6-8da5-4da8-9d69-07d689e214db" alt="Screenshot 2023-12-18 033024" width="400">
 
